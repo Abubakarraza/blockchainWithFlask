@@ -1,4 +1,3 @@
-
 from flask import Flask, jsonify, request
 from blockchain import BlockChain
 
